@@ -5,14 +5,14 @@ We propose to defend against backdoor attacks in a **data-free** manner using pr
 
 
 ## Overview
-**Finding**
+### Finding
 <div align=center>
 <img src="assets/nwc.png" width="70%">
 </div>
 
 We observe that the *neuron weight changes* (NWCs) of random unlearning exhibit a positive correlation with those of poison unlearning. This motivates us to adopt NWCs for data-free backdoor mitigation using only the generated random noise.
 
-**Framework**
+### Framework
 <img src="assets/framework.png" width="100%">
 Overview of our proposed OTBR. 
 
