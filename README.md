@@ -1,5 +1,5 @@
 # Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation
-> The official code implementation for the backdoor defense method, **OTBR**: [arXiv:2408.15861](https://arxiv.org/abs/2408.15861). 
+> The official official repository of **OTBR**: [Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation](https://arxiv.org/abs/2408.15861). The paper is accepted by AAAI 2025.
 
 We propose to defend against backdoor attacks in a **data-free** manner using pruning and optimal transport(OT)-based model fusion. 
 
